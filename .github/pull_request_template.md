@@ -3,5 +3,5 @@ Please always provide the [GitHub issue(s)](../issues) your PR is for, as well a
 Fix #<gh-issue-id>
 
 Test URLs:
-- Before: https://main--meusensia--mrvengenharia.aem.page
-- After: https://<branch>--meusensia--mrvengenharia.aem.page
+- Before: https://main--mrvcopy--helms-charity.aem.page
+- After: https://main--mrvcopy--helms-charity.aem.page

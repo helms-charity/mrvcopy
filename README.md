@@ -1,4 +1,4 @@
-# Meusensia.com.br on Edge Delivery Services
+# Sandbox for Meusensia.com.br on Edge Delivery Services
 
 
 ## Environments / ambientes

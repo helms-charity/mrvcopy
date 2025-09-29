@@ -1,5 +1,0 @@
-mountpoints:
-  /:
-    url: "https://author-p145105-e1492662.adobeaemcloud.com/bin/franklin.delivery/mrvengenharia/meusensia/main"
-    type: "markup"
-    suffix: ".html"
