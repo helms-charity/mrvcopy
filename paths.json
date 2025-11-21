@@ -12,6 +12,7 @@
   ],
   "includes": [
     "/content/meusensia/",
-    "/content/meusensia/icons/"
+    "/content/meusensia/icons/",
+    "/content/meusensia/framework/"
   ]
 }
