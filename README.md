@@ -4,8 +4,8 @@
 ## Environments / ambientes
 O código foi desenvolvido na conta do GitHub do MRV.
 (Code was developed on MRV's github account.)
-- Preview: https://main--meusensia--mrvengenharia.aem.page/
-- Live: https://main--meusensia--mrvengenharia.aem.live/
+- Preview: https://main--mrvcopy--helms-charity.aem.page/
+- Live: https://main--mrvcopy--helms-charity.aem.live/
 
 ## Configurações
 Este projeto começou com o ponto de montagem definido no arquivo fstab.yaml e o mapeamento de caminho em paths.json. Em 8 de setembro de 2025, essas configurações foram enviadas para o "barramento de configuração" conforme https://www.aem.live/developer/repoless-environments. Renomeei os arquivos originais aqui para referência, mas eles podem ser excluídos.
